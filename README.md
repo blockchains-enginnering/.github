@@ -1,3 +1,3 @@
 # .github
 
-![blockchains.engineering](blockchains-engineering.png)
+![blockchains.engineering](blockchains-engineering-square.png)
