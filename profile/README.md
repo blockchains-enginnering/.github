@@ -1,3 +1,3 @@
 
-![blockchains.engineering](./blockchains-engineering-square.png)
+![blockchains.engineering](./blockchains-engineering.png)
 
